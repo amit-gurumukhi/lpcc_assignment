@@ -1,0 +1,4 @@
+MACRO_NAME 	 START END 
+
+INCR				[1, 3] 
+DECR				[4, 6] 
