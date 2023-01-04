@@ -1,8 +1,0 @@
-MOVE AREG , X 		1 
-ADD AREG, ='1' 		2 
-MOVEM AREG , X 		3 
-
-MOVER AREG , X 		4 
-SUB AREG, ='1' 		5 
-MOVER AREG , X 		6 
-
